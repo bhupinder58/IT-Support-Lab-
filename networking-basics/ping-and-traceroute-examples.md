@@ -25,8 +25,13 @@ Ping request could not find host 8.8.8.. Please check the name and try again." T
 ```
 
 🌐 What is tracert?
-tracert shows the path packets take to reach a host.
+
+
+Tracert shows the path packets take to reach a host.
+
+
 ✅ What tracert does:
+
 
 It shows the path your data takes to reach a destination (like 8.8.8.8 or google.com).
 
