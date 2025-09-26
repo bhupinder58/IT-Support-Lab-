@@ -100,3 +100,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
 - Schedule automatic driver updates through OEM support software (Dell Update, Lenovo Vantage, etc.)
 
 ✅ Status: Resolved
+
+This level of detail shows understanding of the following: 
+- You understand **BSOD error codes**
+- You know how to work in **Safe Mode**
+- You use **Windows tools** like Event Viewer, SFC, DISM, MSConfig
+- You follow **CompTIA A+ troubleshooting methodology**
