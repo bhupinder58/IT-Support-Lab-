@@ -1,8 +1,6 @@
 🐢 Ticket 03 - Slow PC Performance
 
-📝 Issue Reported
-
-User reports:  
+📝 Issue Reported by User:
 "My PC has been running extremely slow since last week. Programs take forever to open."
 
 
