@@ -1,23 +1,25 @@
 # 🛠️ IT Support Lab
 
-A hands-on IT project to demonstrate foundational CompTIA A+ knowledge including:
 
-- ✅ Hardware installation & documentation
-- ✅ Windows OS installation & configuration
-- ✅ Network configuration (IP, ping, DNS)
-- ✅ Simulated troubleshooting tickets
-- ✅ PowerShell automation
-- ✅ Professional IT documentation
+Welcome to my **Home Lab Documentation Project** – a curated collection of notes, guides, and troubleshooting tickets I’ve built while exploring and maintaining my own lab environment.  
 
-## 📁 Project Structure
+This repository serves as a **living knowledge base** for:  
+- 🛠️ Building & upgrading hardware  
+- 🌐 Networking basics & configurations  
+- 🐞 Troubleshooting real-world issues  
+- 💿 Windows installation & setup  
+
+
+
+📁 Project Structure
 
 - `hardware-overview/` – PC build or upgrade logs  
 - `windows-installation/` – Windows install + post-config  
 - `networking-basics/` – IP configs, ping tests  
 - `troubleshooting-tickets/` – Simulated helpdesk tickets  
-- `images/` – Screenshots and reference images
+
 
 ## 🧠 About
 
-This project is part of my CompTIA A+ preparation and hands-on learning before CCNA. Built entirely using the **GitHub Web Interface**.
+This project is part of my CompTIA A+ knowledge and hands-on learning. Built entirely using the **GitHub Web Interface**.
 
