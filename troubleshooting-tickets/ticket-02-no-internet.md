@@ -113,3 +113,4 @@ netsh int ip reset
 - Use static IP only for troubleshooting — not permanent setup
 
 ---
+✅ Status: Resolved
