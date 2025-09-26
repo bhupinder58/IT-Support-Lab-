@@ -63,40 +63,40 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ```
 ✅ 3. Updated All Drivers and Windows
 
--Used Windows Update to install latest patches
+- Used Windows Update to install latest patches
 
--Went to laptop manufacturer’s site and installed:
+- Went to laptop manufacturer’s site and installed:
 
--Chipset drivers
+- Chipset drivers
 
--Network drivers
+- Network drivers
 
--Display drivers
+- Display drivers
 
--Ensured all drivers were digitally signed and up to date
+- Ensured all drivers were digitally signed and up to date
 
 ✅ 4. (Optional) Reinstalled VPN
 
--Downloaded the latest version of the VPN software
+- Downloaded the latest version of the VPN software
 
--Verified it had Windows 10/11 compatibility
+- Verified it had Windows 10/11 compatibility
 
--Installed successfully — no blue screen after reboot
+- Installed successfully — no blue screen after reboot
 
 ✅ Final Status
 
--System rebooted multiple times without error
+- System rebooted multiple times without error
 
--User confirmed normal performance
+- User confirmed normal performance
 
--VPN working without issues
+- VPN working without issues
 
 🔁 Recommendation to User
 
--Always create a System Restore Point before installing network-related software
+- Always create a System Restore Point before installing network-related software
 
--Avoid installing unsigned or outdated drivers from unknown sources
+- Avoid installing unsigned or outdated drivers from unknown sources
 
--Schedule automatic driver updates through OEM support software (Dell Update, Lenovo Vantage, etc.)
+- Schedule automatic driver updates through OEM support software (Dell Update, Lenovo Vantage, etc.)
 
 ✅ Status: Resolved
