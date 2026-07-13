@@ -1,30 +1,23 @@
-# 🛠️ IT Support Lab
+🛠️ IT Support Lab
 
+By Bhupinder Singh
 
-Welcome to my **Home Lab Documentation Project** – a curated collection of notes, guides, and troubleshooting tickets I’ve built while exploring and maintaining my own lab environment.  
+A curated home lab documentation project - notes, guides, and troubleshooting tickets built while exploring and maintaining my own IT lab environment as part of my CompTIA A+ learning journey.
+This repository serves as a living knowledge base for:
 
-This repository serves as a **living knowledge base** for:  
-- 🛠️ Building & upgrading hardware  
-- 🌐 Networking basics & configurations  
-- 🐞 Troubleshooting real-world issues  
-- 💿 Windows installation & setup  
-
-
+🛠️ Building & upgrading hardware
+🌐 Networking basics & configurations
+🐞 Troubleshooting real-world issues
+💿 Windows installation & setup
 
 📁 Project Structure
 
-- `hardware-overview/` – PC build or upgrade logs  
-- `windows-installation/` – Windows install + post-config  
-- `networking-basics/` – IP configs, ping tests  
-- `troubleshooting-tickets/` – Simulated helpdesk tickets  
+hardware-overview/ – PC build and upgrade logs
+windows-installation/ – Windows install + post-configuration
+networking-basics/ – IP configurations, ping tests
+troubleshooting-tickets/ – Simulated helpdesk tickets
 
+🧠 About
+This project reflects hands-on practice supporting my CompTIA A+ certification studies, built entirely using the GitHub web interface.
 
-## 🧠 About
-
-This project is part of my CompTIA A+ knowledge and hands-on learning. Built entirely using the **GitHub Web Interface**.
-
-Thank you
-
-
-Bhupinder Singh 
-
+Feel free to explore the folders above; feedback and suggestions are welcome!
